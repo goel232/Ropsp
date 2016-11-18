@@ -10,4 +10,6 @@
 
 @interface DetailOfUser : UIViewController
 @property(retain,nonatomic)NSMutableArray *arrayAboutList;
+@property (strong, nonatomic) IBOutlet UITableView *detailTableView;
+@property BOOL isClick;
 @end

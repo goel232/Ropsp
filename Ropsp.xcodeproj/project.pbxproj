@@ -57,6 +57,7 @@
 		B54B6FA21DDC40DA00AEFA20 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				B54B6FB21DDC40DA00AEFA20 /* LaunchScreen.storyboard */,
 				B54B6FA11DDC40DA00AEFA20 /* Ropsp.app */,
 			);
 			name = Products;
@@ -76,9 +77,7 @@
 				B5F27C9E1DDE4DAA0002AA6E /* DetailsOfStories.m */,
 				B54B6FAD1DDC40DA00AEFA20 /* Main.storyboard */,
 				B54B6FB01DDC40DA00AEFA20 /* Assets.xcassets */,
-				B54B6FB21DDC40DA00AEFA20 /* LaunchScreen.storyboard */,
 				B54B6FB51DDC40DA00AEFA20 /* Info.plist */,
-				B5EE69401DDCE3D40056A23F /* iOS_Android Data.json */,
 				B54B6FA21DDC40DA00AEFA20 /* Products */,
 				B54B6FA41DDC40DA00AEFA20 /* Supporting Files */,
 			);
@@ -88,6 +87,7 @@
 		B54B6FA41DDC40DA00AEFA20 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B5EE69401DDCE3D40056A23F /* iOS_Android Data.json */,
 				B54B6FA51DDC40DA00AEFA20 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -189,6 +189,7 @@
 				B54B6FB31DDC40DA00AEFA20 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			path = Ropsp;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
